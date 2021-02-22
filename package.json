@@ -8,7 +8,7 @@
     "dark",
     "syntax"
   ],
-  "repository": "https://github.com/felix-u/stellar-dark-theme",
+  "repository": "https://github.com/felix-u/stellar-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.49.0"
